@@ -29,3 +29,7 @@ I'm a cs student. I’m currently learning golang. Practice makes perfect, so le
   <a href="mailto:yurnidolisy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/dolisyrni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dolisyyurni/dolisyyurni/output/github-snake-dark.svg" alt="GitHub Snake">
+</div>
