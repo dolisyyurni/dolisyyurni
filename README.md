@@ -25,10 +25,10 @@ I'm a cs student, currently learning golang. Practice makes perfect, so lets wor
 ##
 
 <div align="center">
-  <a href="https://www.leetcode.com/_dolisy"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dolisy-febriani-yurni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:yurnidolisy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/dolisyuu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.leetcode.com/_dolisy"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" target="_blank" height="50"></a>
+  <a href="https://www.linkedin.com/in/dolisy-febriani-yurni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25"></a>
+  <a href="mailto:yurnidolisy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25"></a>
+  <a href="https://instagram.com/dolisyuu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="25"></a>
 </div>
 
 <div align="center">
