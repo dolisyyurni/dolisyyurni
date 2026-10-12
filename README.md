@@ -1,4 +1,4 @@
-## Hello! I'm Dolisy Yurni, interested in software engineering! 
+## Hello! I'm Dolisy 
 
 I'm a cs student, currently learning golang. Practice makes perfect, so lets work smart and hard >< 
 
